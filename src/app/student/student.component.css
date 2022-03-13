@@ -1,0 +1,14 @@
+.main{
+    border: 1px solid gold;
+    color: white;
+    margin:10px;
+    border-radius:5px;
+    padding:8px;
+    width: 350px;
+    height: 150px;
+}
+.studentimg{
+    width:100px ;
+    height:100px;
+    margin:8px
+}
